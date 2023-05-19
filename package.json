@@ -1,0 +1,19 @@
+{
+  "name": "7.-convertidorcriptomonedas",
+  "version": "1.0.0",
+  "description": "Cotizar Cryptomonedas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastian14Vidales/CotizarCrypto.git"
+  },
+  "author": "Sebastian Vidales Claros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebastian14Vidales/CotizarCrypto/issues"
+  },
+  "homepage": "https://github.com/Sebastian14Vidales/CotizarCrypto#readme"
+}
